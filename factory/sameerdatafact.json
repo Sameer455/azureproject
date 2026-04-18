@@ -1,0 +1,9 @@
+{
+	"name": "sameerdatafact",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fb0b9ec7-b770-409c-a732-5d8a8f7168da",
+		"tenantId": "2ed7f2e6-e8a9-4bc5-8cd6-cea790964ecc"
+	}
+}
